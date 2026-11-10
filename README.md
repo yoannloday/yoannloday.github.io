@@ -4,9 +4,9 @@ Waouh ça marche
 Je suis en thèse à l'Institut Camille Jordan (Lyon 1 Université) sous la direction de 
 <a href="https://sites.google.com/site/ericdelaygue/" target="_blank" rel="noopener noreferrer">Eurydice Égal</a> 
 et
-<a href="https://sites.google.com/site/ericdelaygue/" target="_blank" rel="noopener noreferrer">Lina Bâtons</a>
+<a href="https://mathexp.eu/bostan/" target="_blank" rel="noopener noreferrer">Lina Bâtons</a>
 (et un peu 
-<a href="https://sites.google.com/site/ericdelaygue/" target="_blank" rel="noopener noreferrer">Hector Fidéjeur</a>
+<a href="http://math.univ-lyon1.fr/homes-www/jouhet/" target="_blank" rel="noopener noreferrer">Hector Fidéjeur</a>
 mais pas beaucoup)
 
 Adresse mail : loday@math.univ-lyon1.fr
