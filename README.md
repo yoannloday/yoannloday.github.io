@@ -32,36 +32,75 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
       <a href="slides1.pdf" target="_blank">[slides]</a>
     </div>
     <div class="title">
-      Valeurs transcendantes
+      Finding hyperexponential solutions to differential equations
+    </div>
+    <div class="authors">
+      Rapport de PLR 2 (Projet Long de Recherche )
+    </div>
+  </div>
+
+  <div class="publication">
+    <div class="links">
+      <a href="article1.pdf" target="_blank">[pdf]</a>
+      <a href="slides1.pdf" target="_blank">[slides]</a>
+    </div>
+    <div class="title">
+      Minimization of differential equations
+    </div>
+    <div class="authors">
+      Rapport de PLR 1 (Projet Long de Recherche )
+    </div>
+  </div>
+
+  <div class="publication">
+    <div class="links">
+      <a href="article1.pdf" target="_blank">[pdf]</a>
+      <a href="slides1.pdf" target="_blank">[slides]</a>
+    </div>
+    <div class="title">
+      Transcendence of values of E-functions at algebraic points
     </div>
     <div class="authors">
       Rapport de M2
     </div>
   </div>
 
-  <div class="publication">
+    <div class="publication">
     <div class="links">
       <a href="article1.pdf" target="_blank">[pdf]</a>
       <a href="slides1.pdf" target="_blank">[slides]</a>
     </div>
     <div class="title">
-      Valeurs transcendantes et calcul formel
+      Carquois et théorème de Gabriel
     </div>
     <div class="authors">
-      Rapport de PLR1
+      Rapport de M1
     </div>
   </div>
 
-  <div class="publication">
+    <div class="publication">
     <div class="links">
       <a href="article1.pdf" target="_blank">[pdf]</a>
       <a href="slides1.pdf" target="_blank">[slides]</a>
     </div>
     <div class="title">
-      Fonctions hypergeo
+      Introduction à la Topologie Algébrique
     </div>
     <div class="authors">
-      Rapport de PLR2
+      Rapport de L3
+    </div>
+  </div>
+
+<div class="publication">
+    <div class="links">
+      <a href="article1.pdf" target="_blank">[pdf]</a>
+      <a href="slides1.pdf" target="_blank">[slides]</a>
+    </div>
+    <div class="title">
+      Moteurs de recherche et marches aléatoires
+    </div>
+    <div class="authors">
+      TIPE
     </div>
   </div>
 
