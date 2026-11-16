@@ -1,0 +1,28 @@
+.publications {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.publication {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  column-gap: 15px;
+  row-gap: 3px;
+}
+
+.links {
+  grid-column: 1;
+  grid-row: 1 / 3;
+  white-space: nowrap;
+}
+
+.title {
+  grid-column: 2;
+  font-weight: bold;
+}
+
+.authors {
+  grid-column: 2;
+  font-style: italic;
+}
