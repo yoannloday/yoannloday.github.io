@@ -1,3 +1,7 @@
+.site-title {
+  display: none;
+}
+
 .publications {
   display: flex;
   flex-direction: column;
