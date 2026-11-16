@@ -28,8 +28,8 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
 
   <div class="publication">
     <div class="links">
-      <a href="article1.pdf" target="_blank">[pdf]</a>
-      <a href="slides1.pdf" target="_blank">[slides]</a>
+      <a href="productions/PLR2_report.pdf" target="_blank">[pdf]</a>
+      <a href="productions/PLR2_slides.pdf" target="_blank">[slides]</a>
     </div>
     <div class="title">
       Finding hyperexponential solutions to differential equations
@@ -41,8 +41,8 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
 
   <div class="publication">
     <div class="links">
-      <a href="article1.pdf" target="_blank">[pdf]</a>
-      <a href="slides1.pdf" target="_blank">[slides]</a>
+      <a href="productions/PLR1_report.pdf" target="_blank">[pdf]</a>
+      <a href="productions/PLR1_slides.pdf" target="_blank">[slides]</a>
     </div>
     <div class="title">
       Minimization of differential equations
@@ -54,8 +54,8 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
 
   <div class="publication">
     <div class="links">
-      <a href="article1.pdf" target="_blank">[pdf]</a>
-      <a href="slides1.pdf" target="_blank">[slides]</a>
+      <a href="productions/M2_report.pdf" target="_blank">[pdf]</a>
+      <a href="productions/M2_slides.pdf" target="_blank">[slides]</a>
     </div>
     <div class="title">
       Transcendence of values of E-functions at algebraic points
@@ -67,7 +67,7 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
 
     <div class="publication">
     <div class="links">
-      <a href="article1.pdf" target="_blank">[pdf]</a>
+      <a href="productions/Rapport_M1.pdf" target="_blank">[pdf]</a>
     </div>
     <div class="title">
       Carquois et théorème de Gabriel
@@ -79,7 +79,7 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
 
     <div class="publication">
     <div class="links">
-      <a href="article1.pdf" target="_blank">[pdf]</a>
+      <a href="productions/Rapport_L3.pdf" target="_blank">[pdf]</a>
     </div>
     <div class="title">
       Introduction à la Topologie Algébrique
@@ -91,8 +91,8 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
 
 <div class="publication">
     <div class="links">
-      <a href="article1.pdf" target="_blank">[pdf]</a>
-      <a href="slides1.pdf" target="_blank">[slides]</a>
+      <a href="productions/TIPE.pdf" target="_blank">[pdf]</a>
+      <a href="productions/TIPE_slides.pdf" target="_blank">[slides]</a>
     </div>
     <div class="title">
       Moteurs de recherche et marches aléatoires
