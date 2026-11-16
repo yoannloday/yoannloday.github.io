@@ -1,6 +1,3 @@
-# Section 1
-Waouh ça marche
-
 Je suis en thèse à l'Institut Camille Jordan (Lyon 1 Université) sous la direction de 
 <a href="https://sites.google.com/site/ericdelaygue/" target="_blank" rel="noopener noreferrer">Eurydice Égal</a> 
 et
