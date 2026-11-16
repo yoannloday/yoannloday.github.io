@@ -35,7 +35,7 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
       Finding hyperexponential solutions to differential equations
     </div>
     <div class="authors">
-      Rapport de PLR 2 (Projet Long de Recherche )
+      Rapport de PLR 2 (Projet Long de Recherche)
     </div>
   </div>
 
@@ -48,7 +48,7 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
       Minimization of differential equations
     </div>
     <div class="authors">
-      Rapport de PLR 1 (Projet Long de Recherche )
+      Rapport de PLR 1 (Projet Long de Recherche)
     </div>
   </div>
 
@@ -68,7 +68,6 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
     <div class="publication">
     <div class="links">
       <a href="article1.pdf" target="_blank">[pdf]</a>
-      <a href="slides1.pdf" target="_blank">[slides]</a>
     </div>
     <div class="title">
       Carquois et théorème de Gabriel
@@ -81,7 +80,6 @@ Rapports : Je peux mettre mes rapports de master à un moment si j'ai pas la fle
     <div class="publication">
     <div class="links">
       <a href="article1.pdf" target="_blank">[pdf]</a>
-      <a href="slides1.pdf" target="_blank">[slides]</a>
     </div>
     <div class="title">
       Introduction à la Topologie Algébrique
